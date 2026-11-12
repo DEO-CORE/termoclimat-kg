@@ -217,21 +217,6 @@ python3 -m http.server -d site 8080    # → http://localhost:8080
 
 </details>
 
-<details>
-<summary><b>Обновить графику README</b></summary>
-
-<br>
-
-Баннеры, блок направлений, цифры, палитру и надпись создаёт скрипт. Фото встраиваются прямо в SVG, потому что GitHub не подгружает внешние картинки внутри SVG.
-
-```bash
-python3 .github/readme/generate.py     # нужен ffmpeg
-```
-
-</details>
-
-<br>
-
 <div align="center">
 
 <picture>
