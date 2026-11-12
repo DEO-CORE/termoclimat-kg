@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-label="TermoClimat в цифрах">
+  <clipPath id="sc"><rect width="1280" height="250" rx="32"/></clipPath>
+  <g clip-path="url(#sc)">
+    <rect width="1280" height="250" fill="#0a0b0f"/>
+    <circle cx="1210" cy="-40" r="210" fill="none" stroke="#e5252a" stroke-opacity=".12" stroke-width="60"/>
+  </g>
+  <text x="64" y="56" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#8d929e">TERMOCLIMAT · В ЦИФРАХ</text>
+  <line x1="64" y1="86" x2="328" y2="86" stroke="#272a33"/>
+  <text x="64" y="166" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" fill="#fff" letter-spacing="-3">9+<tspan font-size="24" fill="#8d929e" letter-spacing="0"></tspan></text>
+  <text x="64" y="200" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8d929e">лет на рынке</text>
+  <line x1="360" y1="86" x2="624" y2="86" stroke="#272a33"/>
+  <text x="360" y="166" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" fill="#fff" letter-spacing="-3">146<tspan font-size="24" fill="#8d929e" letter-spacing="0"> кВт</tspan></text>
+  <text x="360" y="200" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8d929e">солнечной генерации</text>
+  <line x1="656" y1="86" x2="920" y2="86" stroke="#272a33"/>
+  <text x="656" y="166" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" fill="#fff" letter-spacing="-3">7<tspan font-size="24" fill="#8d929e" letter-spacing="0"></tspan></text>
+  <text x="656" y="200" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8d929e">страниц сайта</text>
+  <line x1="952" y1="86" x2="1216" y2="86" stroke="#272a33"/>
+  <text x="952" y="166" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" fill="#fff" letter-spacing="-3">0<tspan font-size="24" fill="#8d929e" letter-spacing="0"></tspan></text>
+  <text x="952" y="200" font-family="'Inter Tight','Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8d929e">any в TypeScript</text>
+</svg>
