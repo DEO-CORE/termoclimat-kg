@@ -74,7 +74,12 @@ export default function Footer() {
           </div>
           <div className="foot-bottom">
             <span>© {new Date().getFullYear()} TermoClimat · {contacts.hours}</span>
-            <a href="https://termoclimat.kg/privacy/">Политика конфиденциальности</a>
+            <div className="foot-meta">
+              <a href="https://termoclimat.kg/privacy/">Политика конфиденциальности</a>
+              <span className="made-by" title="Сайт разработан DEO">
+                <img src="/assets/deo/MADE_BY_DEO.svg" alt="Made by DEO" width={148} height={30} />
+              </span>
+            </div>
           </div>
         </div>
       </footer>
