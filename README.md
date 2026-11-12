@@ -200,22 +200,6 @@ termoclimat/
 > [!NOTE]
 > Чтобы заявки приходили в Telegram или CRM, уберите `output: 'export'` в `web/next.config.ts` и добавьте route handler.
 
-<details>
-<summary><b>Статический HTML-прототип (<code>site/</code>)</b></summary>
-
-<br>
-
-Первая версия на чистом HTML, CSS и JS без зависимостей.
-
-```bash
-python3 build.py                       # pages/* + partials/* → site/*.html
-python3 -m http.server -d site 8080    # → http://localhost:8080
-```
-
-- `pages/`: контент страниц. Первая строка задаёт метаданные: `<!-- title | description | nav-key -->`
-- `partials/`: общие шапка и подвал
-
-</details>
 
 <div align="center">
 
